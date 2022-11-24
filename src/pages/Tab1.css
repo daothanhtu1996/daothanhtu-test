@@ -1,0 +1,65 @@
+.headerList {
+    position: static;
+}
+.iconleft {
+    padding-left: 22px;
+}
+.textLink {
+    font-size: 17px;
+    color: #004dff;
+}
+.textCreate {
+    font-size: 17px;
+    color: #04004d;
+    font-weight: 500;
+    padding-left: 12px;
+}
+.buttonFooter {
+    background-color: #004dff;
+    height: 56px;
+    margin: 0px 24px 30px 24px;
+    border-radius: 7.5px;
+}
+.textButton {
+    font-weight: 700;
+    font-size: 17px;
+    text-align: center;
+    color: #ffffff;
+}
+.textFooter {
+    display: flex;
+    padding: 24px 30px 24px 20px;
+}
+.iconCoppy {
+    width: 48px;
+    height: 48px;
+    cursor: pointer;
+    margin: 0px 20px 0 0;
+}
+.coppyBox {
+    display: flex;
+    justify-content: end;
+}
+.textCoppy {
+    color: #04004d;
+    font-weight: 400;
+    font-size: 15px;
+}
+
+.contenCoppy {
+    margin: 0 0px 0 24px;
+}
+.iconModal {
+    width: 71px;
+}
+.boxModal {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.textModal {
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 30px;
+    color: #04004d;
+}
